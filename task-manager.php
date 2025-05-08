@@ -25,7 +25,7 @@ class AdminToDoManager {
         if (!current_user_can('manage_options')) return;
         $wp_admin_bar->add_node([
             'id' => 'admin_to_do_manager',
-            'title' => '<span class="ab-icon dashicons dashicons-portfolio"></span> To-Do Lists',
+            'title' => '<span class="ab-icon dashicons dashicons-portfolio"></span> Task Manager',
         ]);
     }
 
