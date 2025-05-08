@@ -18,8 +18,8 @@ A draggable task list popup for WordPress admins with instant saving via AJAX.
 4. Activate the plugin
 
 ## Usage
-1. Click the "To-Do Lists" button in the admin bar
-2. Create new lists using the form
+1. Click the "Task Manager" button in the admin bar
+2. Create new task lists using the form
 3. Add tasks to your lists
 4. Drag to reorder tasks
 5. Check items when completed
